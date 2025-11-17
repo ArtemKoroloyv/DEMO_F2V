@@ -10,7 +10,7 @@
 
 1. Клонировать репозиторий:
     ```bash
-    git clone https://github.com/ArtemKorolovyy/DEMO_F2V.git
+    git clone https://github.com/ArtemKorolovyv/DEMO_F2V.git
     cd DEMO_F2V
     ```
 
